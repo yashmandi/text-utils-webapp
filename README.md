@@ -7,7 +7,3 @@ Visit the demo website to start using Text Utils. Note that this website is for 
 
 ## Feedback
 We welcome your feedback and suggestions. Please note that this project is for practice and learning purposes only.
-
-## License
-This project is licensed under the MIT License.
-
